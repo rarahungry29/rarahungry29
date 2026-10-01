@@ -11,7 +11,7 @@
 
 ## 할 수 있는 것
 
-JavaScript TypeScript Python Java React.js Node.js HTML CSS SQL
+JavaScript TypeScript Python Java React.js Node.js HTML C++ C# CSS SQL
 
 ## 감사합니다!
 
