@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 안녕하세요!
 
-<!--
-**rarahungry29/rarahungry29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+새로운 것을 배우고, 직접 만들어보는 것을 좋아하는 개발자입니다.
 
-Here are some ideas to get you started:
+아직 배워가는 과정에 있지만 단순히 코드를 작성하는 것보다
+왜 이렇게 동작하는지 이해하고, 더 나은 방법을 고민하는 것을 중요하게 생각합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+웹 개발을 중심으로 여러 기술을 알아가고 있으며,
+배운 내용을 직접 프로젝트로 만들어보면서 경험을 쌓고 있습니다.
+작은 아이디어라도 직접 구현해보고, 문제가 생기면 원인을 찾아 해결하는 과정을 좋아합니다.
+
+## 할 수 있는 것
+
+JavaScript TypeScript Python Java React.js Node.js HTML CSS SQL
+
+## 감사합니다!
+
+아직 부족한 부분이 많지만,
+더 깔끔하고 효율적인 코드를 작성할 수 있는 개발자가 되는 것을 목표로 하고 있습니다.
+
+방문해주셔서 감사합니다!
